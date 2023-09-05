@@ -14,6 +14,7 @@
 
  
 ## Descrição
+* 
 * [Voltar para o Índice](#%C3%ADndice)
 
  
@@ -26,8 +27,10 @@
 
  
 ## Fontes consultadas
+* Bootstrap
 * [Voltar para o Índice](#%C3%ADndice)
 
  
 ## Autores
+* Daniel
 * [Voltar para o Índice](#%C3%ADndice)
